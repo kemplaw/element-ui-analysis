@@ -4,4 +4,4 @@
 
 计划按 packages 的结构来进行分析学习
 
-## [Col 组件分析]('./packages/col/source.md)
+## [Col 组件分析](/packages/col/source.md)
